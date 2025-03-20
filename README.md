@@ -37,3 +37,7 @@ Start the Flask server:
 python server.py
 ```
 Then open [http://localhost:5000](http://localhost:5000) in your browser to chat about Oscar.
+
+## Demo
+
+https://github.com/user-attachments/assets/e72e67c6-d14d-45ec-b2ca-5c6c0a41a896
