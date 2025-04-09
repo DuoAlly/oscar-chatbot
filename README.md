@@ -1,6 +1,6 @@
 # Oscar Chatbot
 
-Oscar Chatbot is an AI-powered assistant that answers questions from Oscar's documentation. It uses FAISS for indexing, Sentence Transformers for embeddings, and OpenAI’s GPT-3.5 for generating responses. The project features a Flask backend and a JavaScript frontend styled with a GitBook-inspired design.
+Oscar Chatbot is an open-source AI-powered chatbot assistant that answers questions from Oscar's documentation. It uses FAISS for indexing, Sentence Transformers for embeddings, and OpenAI’s GPT-3.5 for generating responses. The project features a Flask backend and a JavaScript frontend styled with a GitBook-inspired design.
 
 ## Requirements
 
